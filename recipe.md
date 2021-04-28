@@ -1,0 +1,9 @@
+step 1=boil udon noodles
+step 2=deep fry your tofu
+step 3=put 4.5 tablespoons seasame oil in a wok and stir fry the garlic and onions till golden brown
+step 4=cook beef
+step 5=add all sauces and greeen onions mix
+step 6=add in the noodles
+step 7=add cooked frozen dumplings and tofu
+step 8=add thyme and sumac
+step 9=garnish with seasame seeds
